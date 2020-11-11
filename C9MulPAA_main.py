@@ -54,7 +54,7 @@ def agent(path, dataset, seg, folder, paa=True):
 def cli(path, paa, folder, seg):
 
     datasets = os.walk(path)
-    dataset_name = sorted([dataset[1] for dataset in datasets if len(dataset[1]) > 1][0])
+    dataset_name = sorted([dataset[1] for dataset in datasets if len(dataset[1]) >= 1][0])
     print(dataset_name)
     #dataset_name = ['InsectWingbeat']
     seg = list(seg)
