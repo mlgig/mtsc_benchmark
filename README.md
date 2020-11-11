@@ -15,3 +15,9 @@ bash method_name.script
 ### Dataset
 
 Please download MTSC data from [here](http://www.timeseriesclassification.com/) and unzip files in data directory.
+
+### Full Paper
+
+[Link](https://www.researchgate.net/publication/344501445_An_Examination_of_the_State-of-the-Art_for_Multivariate_Time_Series_Classification)
+
+
