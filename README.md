@@ -9,7 +9,7 @@ The UEA Multivariate Time Series Classification (MTSC) archive released in 2018 
 
 ### Running the methods
 
-bash method_name.script
+bash method_name.sh
 
 
 ### Dataset
