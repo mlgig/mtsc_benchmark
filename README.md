@@ -20,6 +20,9 @@ Please download MTSC data from [here](http://www.timeseriesclassification.com/) 
 
 [Link](https://www.researchgate.net/publication/344501445_An_Examination_of_the_State-of-the-Art_for_Multivariate_Time_Series_Classification)
 
+### Paper Presentation
+[Link](https://github.com/mlgig/mtsc_benchmark/blob/master/Presentation/Bhaskar-Litsa-ICDM-workshop.pdf)
+
 
 
 ### Citation
