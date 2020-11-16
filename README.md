@@ -1,5 +1,5 @@
 # An Examination of the State-of-the-Art for Multivariate Time Series Classification
-Code repository for workshop paper.
+Code repository for workshop paper in [LITSA](https://lipn.github.io/LITSA2020/program), [ICDM 2020](http://icdm2020.bigke.org/).
 
 
 ### Abstract
@@ -19,5 +19,18 @@ Please download MTSC data from [here](http://www.timeseriesclassification.com/) 
 ### Full Paper
 
 [Link](https://www.researchgate.net/publication/344501445_An_Examination_of_the_State-of-the-Art_for_Multivariate_Time_Series_Classification)
+
+
+
+### Citation
+
+```
+@inproceedings{dhariyal20mtsc,
+author={B. Dhariyal and T. Le Nguyen and S. Gsponer and G. Ifrim},
+title = {An Examination of the State-of-the-Art for Multivariate Time Series Classification},
+year = {2020},
+booktitle = {Workshop on Large Scale Industrial Time Series Analysis, ICDM 2020}
+}
+```
 
 
